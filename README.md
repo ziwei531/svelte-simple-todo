@@ -4,7 +4,7 @@ Just a simple application to get myself familiarized with Svelte. It's quite a f
 
 
 
-Below are template writing by Vite. Leaving it as I'll be refering it back constantly in the future
+Below are template writing by Vite. I'm keeping it as I'll be refering it back constantly in the future
 ↓↓↓↓
 
 
