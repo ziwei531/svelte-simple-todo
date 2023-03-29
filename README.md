@@ -1,6 +1,12 @@
-# Svelte + Vite
+# Simple Todo application with Svelte + Vite
 
-This template should help get you started developing with Svelte in Vite.
+Just a simple application to get myself familiarized with Svelte. It's quite a fun and easy framework to deal with!
+
+
+
+Below are template writing by Vite. Leaving it as I'll be refering it back constantly in the future
+↓↓↓↓
+
 
 ## Recommended IDE Setup
 
